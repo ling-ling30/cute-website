@@ -32,7 +32,7 @@ yesButton.addEventListener("click", () => {
 
   let p = document.createElement("p");
   const newLocal = (p.innerText =
-    "Congrats, it is the right choice 🎉🎉 AAAAAA THANK YOU !! Follow my twitter @daeevv 🥰🥰, i'll  make sure to follow you back in 3-5 business day 😉😉");
+    "Congrats, it is the right choice 🎉🎉 AAAAAA THANK YOU !! Gotta see you soon ;)");
   p.style.fontSize = "2rem";
   p.style.fontWeight = "bold";
   p.style.textAlign = "center";
